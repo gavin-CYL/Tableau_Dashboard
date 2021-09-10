@@ -1,4 +1,4 @@
-# Side Project - Makeover Monday 2021 Week 19,  "What Does 1GB of Mobile Data Cost in Every Country?"
+# Mini Project - Makeover Monday 2021 Week 19,  "What Does 1GB of Mobile Data Cost in Every Country?"
 https://www.makeovermonday.co.uk/data/
 
 
